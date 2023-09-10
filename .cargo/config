@@ -12,6 +12,6 @@ rustflags = [
 "-C", "link-arg=-mtune=cortexa7",
 "-C", "link-arg=-mfpu=vfpv4",
 
-"-C", "link-arg=--sysroot=/home/alpha/build/tmp/work/cortexa7t2hf-neon-vfpv4-poky-linux-gnueabi/systemd/1_244.5-r0/recipe-sysroot",
+"-C", "link-arg=--sysroot=/home/alpha/build/tmp/work/cortexa7hf-neon-poky-linux-gnueabi/systemd/1_244.5-r0/recipe-sysroot",
 ]
 
